@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.valtorencore.com/sitemap.xml
